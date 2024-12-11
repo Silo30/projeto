@@ -1,0 +1,97 @@
+// Projeto
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Adicionar Subtarefa
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Criar uma nova tarefa
+color: 'white';
+ fontSize: 24;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Responsável
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Nivel de prioridade
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Para
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Iniciar
+color: 'white';
+ fontSize: 13;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Selecionar um projeto
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Escolher uma data
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Baixa 
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Status da tarefa
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Data de vencimento
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Descrição da Tarefa
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Lista de Subtarefas
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'

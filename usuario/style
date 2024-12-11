@@ -1,0 +1,147 @@
+// Usuário
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// email.teste@g...
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Visualizar Kanban
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Atribuições de Tarefas
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Adicionar Tarefa
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Visualizar Tarefas
+<br/>
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Notas de Tarefas
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Configurações de perfil
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Sair
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Tarefa
+color: 'white';
+ fontSize: 24;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Adicionar Tarefas
+color: 'white';
+ fontSize: 20;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Configurações de Perfil
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Central de Notificações
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Calendário
+color: 'white';
+ fontSize: 20;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Visão Geral da Tarefa
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Detalhes da Tarefa
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Tarefa
+color: 'white';
+ fontSize: 20;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Planejamento de Tarefa
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Organização de Tarefa
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Progresso da Tarefa
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Criação de Tarefa
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'

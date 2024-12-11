@@ -1,0 +1,97 @@
+// Organizado? Sobrecarregado? Ou precisa <br/>
+color: 'white';
+ fontSize: 20;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// guardar e ver suas tarefas com facilidade?!
+color: 'white';
+ fontSize: 18;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Gerencie suas tarefas sem esforço em qualquer lugar!
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Clockwork
+color: 'white';
+ fontSize: 32;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Já é um usuário? Faça login
+color: 'white';
+ fontSize: 18;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Inscreva-se
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// ou faça login com
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Google
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Facebook
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Seu nome completo
+color: 'white';
+ fontSize: 13;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Seu nome de usuário único
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Senha
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Repita a senha
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Faça seu cadastro aqui!
+color: 'white';
+ fontSize: 20;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'

@@ -1,0 +1,489 @@
+// Tarefas Atuais
+color: 'white';
+ fontSize: 36;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Procurar Tarefas
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// 67% de progresso
+color: 'white';
+ fontSize: 8;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Tarefa 8 de 12
+color: 'white';
+ fontSize: 8;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// 33% de progresso
+color: 'white';
+ fontSize: 8;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Tarefa 4 de 12
+color: 'white';
+ fontSize: 8;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Suas Tarefas
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// 01 de Maio - 21 de Maio, 2023
+color: 'white';
+ fontSize: 10;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// 1
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// 8
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// 3
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// 17
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// 11
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// 18
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// 2
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// 9
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// 16
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// 5
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// 12
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// 7
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// 14
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// 21
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// 6
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// 13
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// 20
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '400';
+ wordWrap: 'break-word'
+---
+// 4
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Visão Geral das Tarefas
+<br/>
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Comece agora
+color: 'white';
+ fontSize: 12;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// 10
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Detalhes da Tarefa
+<br/>
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Compreendendo a tarefa
+color: 'white';
+ fontSize: 12;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// 15
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Análise de Mercado
+<br/>
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Tendências do mercado
+color: 'white';
+ fontSize: 12;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// 19
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Revisão de Documentos<br/>
+color: 'white';
+ fontSize: 13;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Revisão com Supervisor
+color: 'white';
+ fontSize: 12;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Usuário
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// email.teste@g...
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Visualizar Kanban
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Atribuições de Tarefas
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Adicionar Tarefa
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Visualizar Tarefas
+<br/>
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Notas de Tarefas
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Configurações de perfil
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Sair
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Visão Geral das Tarefas
+<br/>
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Comece agora
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Suas Tarefas
+color: 'white';
+ fontSize: 20;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Titulo da Tarefa
+color: 'white';
+ fontSize: 20;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Titulo da Tarefa
+color: 'white';
+ fontSize: 20;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Titulo da Tarefa
+color: 'white';
+ fontSize: 20;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Titulo da Tarefa
+color: 'white';
+ fontSize: 20;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Titulo da Tarefa
+color: 'white';
+ fontSize: 20;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Editor de Tarefas
+color: 'white';
+ fontSize: 20;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Em progresso
+color: 'white';
+ fontSize: 20;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Visão Geral das Tarefas
+<br/>
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Comece agora
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Detalhes da Tarefa
+<br/>
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Compreendendo a tarefa
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Análise de Mercado
+<br/>
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Tendências do mercado
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Revisão de Documentos
+<br/>
+color: 'white';
+ fontSize: 15;
+ fontFamily: 'Inter';
+ fontWeight: '700';
+ wordWrap: 'break-word'
+---
+// Revisão com Supervisor
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Hoje às 11 AM, Sala 300
+<br/>12 tarefas
+<br/>
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Quarta 10/5, 2 PM, Sala 766
+<br/>42 tarefas
+color: 'white';
+ fontSize: 13;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Segunda 15/5, 11 AM
+<br/>Avaliação Individual Online
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
+---
+// Sexta 19/5, 9 AM
+<br/>Sessão individual Online
+color: 'white';
+ fontSize: 14;
+ fontFamily: 'Inter';
+ fontWeight: '600';
+ wordWrap: 'break-word'
